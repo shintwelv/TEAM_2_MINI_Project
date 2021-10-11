@@ -1,2 +1,2 @@
-# TEAM_2_MINI_Project
+# TEST MINI project
 KOSMO 92th Mini project (TEAM  2)
